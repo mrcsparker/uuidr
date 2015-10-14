@@ -1,0 +1,14 @@
+Package: uuidr
+Type: Package
+Title: uuid.h wrapper for R
+Version: 0.1.0
+Date: 2015-10-14
+Author: Chris Parker
+Maintainer: Chris Parker <mrcsparker@gmail.com>
+Description: uuid.h wrapper for R
+License: LGPL-3
+LazyData: TRUE
+Imports:
+    Rcpp (>= 0.12.1)
+LinkingTo:
+    Rcpp
